@@ -6,9 +6,9 @@ import time
 from datetime import datetime
 
 # --- CONFIGURAÇÕES TÉCNICAS (Edite aqui ou use a barra lateral) ---
-API_KEY = "SUA_CHAVE_THE_ODDS_API_AQUI" # Pegue em the-odds-api.com
-TOKEN_TELEGRAM = "SEU_TOKEN_BOTFATHER_AQUI"
-CHAT_ID_TELEGRAM = "SEU_ID_TELEGRAM_AQUI"
+API_KEY = "16616c59ffa4449f71d7f3e9f0086e63" # Pegue em the-odds-api.com
+TOKEN_TELEGRAM = "8510184758:AAEv4k0_jOj5mDGeBVoh_OJW7mYK-nuJu7A"
+CHAT_ID_TELEGRAM = "5679754900"
 
 # --- FUNÇÃO DE ALERTA TELEGRAM ---
 async def enviar_telegram(mensagem):
